@@ -14,34 +14,74 @@
 
     <section class="restaurant-list">
         <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
-            <img src="restro-image1.jpg" alt="Restaurant 1">
+            <img src="images/restro-image1.jpg" alt="Restaurant 1">
             <h3>Restaurant 1</h3>
             <p>Italian Cuisine</p>
         </div>
         <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
-            <img src="restro-image1.jpg" alt="Restaurant 2">
+            <img src="images/restro-image1.jpg" alt="Restaurant 2">
             <h3>Restaurant 2</h3>
             <p>Indian Cuisine</p>
         </div>
         <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
-            <img src="restro-image1.jpg" alt="Restaurant 3">
+            <img src="images/restro-image1.jpg" alt="Restaurant 3">
             <h3>Restaurant 3</h3>
             <p>Chinese Cuisine</p>
         </div>
         <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
-            <img src="restto11.jpg" alt="Restaurant 4">
+            <img src="images/restto11.jpg" alt="Restaurant 4">
             <h3>Restaurant 4</h3>
             <p>Mexican Cuisine</p>
         </div>
         <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
-            <img src="restto11.jpg" alt="Restaurant 4">
+            <img src="images/restto11.jpg" alt="Restaurant 4">
             <h3>Restaurant 4</h3>
             <p>Mexican Cuisine</p>
         </div>
         <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
-            <img src="restto11.jpg" alt="Restaurant 4">
+            <img src="images/restto11.jpg" alt="Restaurant 4">
             <h3>Restaurant 4</h3>
             <p>Mexican Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restto11.jpg" alt="Restaurant 4">
+            <h3>Restaurant 4</h3>
+            <p>Mexican Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restto11.jpg" alt="Restaurant 4">
+            <h3>Restaurant 4</h3>
+            <p>Mexican Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restro-image1.jpg" alt="Restaurant 4">
+            <h3>Restaurant 4</h3>
+            <p>Mexican Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restto11.jpg" alt="Restaurant 4">
+            <h3>Restaurant 4</h3>
+            <p>Mexican Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restro-image1.jpg" alt="Restaurant 4">
+            <h3>Restaurant 4</h3>
+            <p>Mexican Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restro-image1.jpg" alt="Restaurant 1">
+            <h3>Restaurant 1</h3>
+            <p>Italian Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restro-image1.jpg" alt="Restaurant 1">
+            <h3>Restaurant 1</h3>
+            <p>Italian Cuisine</p>
+        </div>
+        <div class="restaurant-card" onclick="window.location.href='restaurant.php'">
+            <img src="images/restro-image1.jpg" alt="Restaurant 1">
+            <h3>Restaurant 1</h3>
+            <p>Italian Cuisine</p>
         </div>
     </section>
 
